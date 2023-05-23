@@ -15,4 +15,7 @@ public class human{     // Here human is a class.
     void eat(){  // Method
         System.out.println(this.name+ " had already ate his meal");
     }
+    void sleep(){ // Method
+        System.out.println(this.name + " had already fallen asleep");
+    }
 }                       

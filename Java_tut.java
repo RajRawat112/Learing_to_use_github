@@ -61,5 +61,6 @@ public class Java_tut{
     human human_2 = new human("Dev",15,58.9);
     human_1.drink();
     human_2.eat();
+    human_1.sleep();
     }
 }
