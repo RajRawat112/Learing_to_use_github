@@ -62,5 +62,6 @@ public class Java_tut{
     human_1.drink();
     human_2.eat();
     human_1.sleep();
+    human_2.sleep();
     }
 }
